@@ -1,3 +1,5 @@
+GREMIO É MUITO GRANDE
+
 # pc-web-deploy
 
 ## App in laravel 
@@ -59,7 +61,7 @@ sudo nano app.conf
 
 ```
 <VirtualHost *:80>
-    ServerName [ip-da-sua-vm]
+    ServerName 54.234.220.227
     DocumentRoot /var/www/html/public
 
     <Directory /var/www/html/public>
