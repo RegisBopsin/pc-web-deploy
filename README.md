@@ -1,4 +1,4 @@
-GREMIO É MUITO GRANDE
+GREMIO
 
 # pc-web-deploy
 
@@ -61,7 +61,7 @@ sudo nano app.conf
 
 ```
 <VirtualHost *:80>
-    ServerName 54.234.220.227
+    ServerName 54.162.109.115
     DocumentRoot /var/www/html/public
 
     <Directory /var/www/html/public>
